@@ -1,3 +1,4 @@
 # test-repo
-this is a test repo :)
-hello :D
+this is a test repository
+
+*TODO* add more content
